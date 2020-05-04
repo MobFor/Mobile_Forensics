@@ -10,4 +10,4 @@ sometext
 <a name="usage"></a>
 ## 2. Pentest
 
-sometext, link = <a link="Pentest"></a>
+sometext, link = [Pentest](Pentest)
